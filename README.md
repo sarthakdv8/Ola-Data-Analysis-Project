@@ -23,11 +23,11 @@ efficiency. By leveraging data analysis and visualization techniques, this proje
 
 
 ## 🔍 Key Insights
-✅ People between the age of 40-50 are using credit cards more.
+✅ People are Booking Prime Sedan more.
 
-✅ Credit cards are widely used by Businessman and mostly to pay bills
+✅ The cancellation percentage is 26.18% and reason for cancellation are Driver is not Moving or Personal related issue.
 
-✅ Texas generated the mose=t revenue.
+✅ Mini Segment Cars has the highest ratings.
 
 ## 🔗 Connect & Contribute
 📌 LinkedIn : www.linkedin.com/in/devsarthak24
