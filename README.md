@@ -23,7 +23,7 @@ efficiency. By leveraging data analysis and visualization techniques, this proje
 
 
 ## 🔍 Key Insights
-✅ People are Booking Prime Sedan more.
+✅ People are Booking Prime Sedan cars more.
 
 ✅ The cancellation percentage is 26.18% and reason for cancellation are Driver is not Moving or Personal related issue.
 
